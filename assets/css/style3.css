@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.boton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
